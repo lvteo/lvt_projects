@@ -45,7 +45,6 @@ Pillow==8.0.0
 ply==3.11
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-psycopg2==2.8.5
 ptyprocess==0.6.0
 Pygments==2.6.1
 pyparsing==2.4.7
