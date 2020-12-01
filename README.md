@@ -5,11 +5,14 @@ This is a repository for data science projects for Li-Vern Teo
 # Environment set up 
 My preferred set up is Jupyter Notebooks in virtual environments. I use the following to set up my virtual environment (named env)
 
-`python3 -m venv env`
+```
+python3 -m venv env
+source env/bin/activate
+```
 
 Installing the packages needed to run Jupyter Notebooks in this repository
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 
 # Repository set up 
