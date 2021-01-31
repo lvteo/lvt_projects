@@ -1,4 +1,4 @@
-# lvt_projects
+# Data Science Projects
 This is a repository for data science projects for Li-Vern Teo
 
 
@@ -10,7 +10,7 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-Installing the packages needed to run Jupyter Notebooks in this repository
+Packages needed to run all notebooks in this repository are in the `requirements.txt` file
 
 `pip install -r requirements.txt`
 
