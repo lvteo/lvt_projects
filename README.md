@@ -18,6 +18,6 @@ Packages needed to run all notebooks in this repository are in the `requirements
 # Repository set up 
 Each folder in the repository consists of standalone projects. It will have all the dat files necessary to run the code in the Jupyter Notebooks. 
 
-(In my local set up, I have a Postgres database that I use to perform queries on my database. I've extracted .csv copies of the queries used in for the analysis  to containerise these projects) 
+> I sometimes use a local Postgres database to store the datasets I find online. I've extracted .csv copies of the outputs used in the Jupyter to containerise these projects
 
 
