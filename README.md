@@ -1,8 +1,7 @@
 # Data Science Projects
 This is a repository for data science projects for Li-Vern Teo
 
-
-
+<br/>
 
 ## Environment set up 
 My preferred set up is Jupyter Notebooks in virtual environments. I use the following to set up my virtual environment (named env)
@@ -16,7 +15,7 @@ Packages needed to run all notebooks in this repository are in the `requirements
 
 `pip install -r requirements.txt`
 
-
+<br/>
 
 
 ## Repository set up 
