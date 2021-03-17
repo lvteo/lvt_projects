@@ -1,0 +1,26 @@
+,borough,race,est_pop,sqf_count
+0,bronx,asian / pacific islander,51399,12
+1,bronx,black,421275,1548
+2,bronx,hispanic_latino,803636,1286
+3,bronx,other,27688,42
+4,bronx,white,133874,94
+5,brooklyn,asian / pacific islander,305716,77
+6,brooklyn,black,787705,3574
+7,brooklyn,hispanic_latino,499279,882
+8,brooklyn,other,67288,47
+9,brooklyn,white,940759,417
+10,manhattan,asian / pacific islander,194870,47
+11,manhattan,black,203849,2466
+12,manhattan,hispanic_latino,423683,1364
+13,manhattan,other,44514,37
+14,manhattan,white,765564,410
+15,queens,asian / pacific islander,577152,209
+16,queens,black,396320,1397
+17,queens,hispanic_latino,643563,942
+18,queens,other,100105,27
+19,queens,white,581373,306
+20,staten island,asian / pacific islander,41078,10
+21,staten island,black,43906,301
+22,staten island,hispanic_latino,86976,136
+23,staten island,other,9781,6
+24,staten island,white,292360,181
